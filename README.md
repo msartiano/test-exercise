@@ -16,6 +16,8 @@ Example of the journey that we expect:
 You can use multiple frameworks, for example:
 - Webdrivero.io - Run `./node_modules/.bin/wdio config` to start the configuration
 - Cypress
+- Taiko
+- Nightwatch
 
 ## Usage
 To start the application you need to build it first:
