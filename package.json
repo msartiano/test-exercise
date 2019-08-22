@@ -31,6 +31,7 @@
   "devDependencies": {
     "@wdio/cli": "^5.12.4",
     "cypress": "^3.4.1",
+    "jest": "^24.9.0",
     "nightwatch": "^1.2.1",
     "taiko": "^1.0.0"
   }
